@@ -238,8 +238,3 @@ const closeBtn = document.querySelector('#close-btn');
 closeBtn.addEventListener('click', () => {
     document.querySelector('.left').style.display = 'none';
 })
-
-
-
-
-// THE END
